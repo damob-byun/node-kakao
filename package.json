@@ -4,6 +4,7 @@
   "description": "Loco protocol compatible library",
   "main": "./src/index.ts",
   "files": [
+    "src",
     "dist",
     "dist_esm",
     "readme.md",
