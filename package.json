@@ -2,12 +2,7 @@
   "name": "node-kakao",
   "version": "4.5.0",
   "description": "Loco protocol compatible library",
-  "main": "./dist/index.js",
-  "exports": {
-    ".": "./dist/index.js",
-    "./*": "./dist/*/index.js"
-  },
-  "types": "./dist/index.d.ts",
+  "main": "./src/index.ts",
   "files": [
     "dist",
     "dist_esm",
